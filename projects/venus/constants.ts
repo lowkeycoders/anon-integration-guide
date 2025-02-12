@@ -260,7 +260,6 @@ export const CORE_POOL_MARKET_TOKENS: TokenConfig = {
         //     decimals: 18,
         // },
 
-
         // Adding extra underlaying tokens and their details, wont be used
         // VAI: {
         //     vTokenAddress: "",
