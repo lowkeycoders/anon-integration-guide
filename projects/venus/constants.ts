@@ -106,10 +106,10 @@ export const CORE_POOL_MARKET_TOKENS: TokenConfig = {
             vTokenDecimals: 8,
             decimals: 18,
         },
-        BNB: { // todo relook at this
+        BNB: {
             vTokenAddress: "0xA07c5b74C9B40447a954e1466938b865b6BBea36",
-            vTokenDecimals: 18,/////
-            decimals: 18,/////
+            vTokenDecimals: 8,
+            decimals: 18,
             chainBased: true,
         },
         BTCB: {
